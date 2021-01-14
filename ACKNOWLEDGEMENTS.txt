@@ -1,0 +1,4 @@
+I hereby acknowledge Luther Tychonievich for teaching me about Page Tables and providing documentation which was referenced throughout the creation of my 
+implementation, George Taliaferro wgt7xp who discussed sections of the implementation of the table with me so we could both further our understanding of the assignment. 
+Sources include https://opensource.org/licenses/LGPL-3.0, https://en.wikipedia.org/wiki/MIT_License, and https://en.wikipedia.org/wiki/BSD_licenses for the licensing 
+files and various man pages such as posix memalign and class readings. 

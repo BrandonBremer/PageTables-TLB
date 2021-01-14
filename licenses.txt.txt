@@ -1,0 +1,13 @@
+LGPL: LPGL gives most of the same guarentees as GPL but prevents the user from utilizing libraries not licensed with LGPL.LGPL because it allowsthe redistribution
+and incorporation without the requirement that a user release their source code. The LGPL does not give the same degree of freedom as GPL, only 
+allowing users of the software to modify components licensed under the LGPL. GPL would allow linking to non GPL 
+as well as being distributed under any terms. 
+MIT:Allows users to distribute, use, publish and modify the source as they would please as long as they provide the copyright and same permission notice as is listed 
+in the document they recieve. MIT also covers the liability. 
+BSD:Allows for redistribution in source and binary forms. The name of the developer may not be used for marketing without written consent of the developer/organization.
+All redistributions of the source must include the copy rights and attribution to the organization that created it. BSD prevents the use of
+the organization name for advertisement and requires continuation of the copy right and attribution to the creator. 
+
+I chose the MIT License because it guarentees attribution and that users continue to allow it to be free to use for anyone as long as they include the copyright. It
+also allows the document to be passed onto others with the same compyright notice. The MIT license also covered liability. I did not significantly care about the
+guarentees of my name not being used for advertisement in BSD or about the library linkage requirements in LGPL. 
